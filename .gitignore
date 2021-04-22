@@ -1,6 +1,15 @@
 # node
 node_modules
 
+# hidden files
+.*
+tmp/
+!.gitignore
+!.*.example
+
 # template files . . . personal files won't be added to the repo
 templates/personal/*
 !README.md
+
+# log files
+*.log
