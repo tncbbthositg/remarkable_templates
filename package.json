@@ -1,0 +1,13 @@
+{
+  "name": "remarkable_templates",
+  "version": "1.0.0",
+  "description": "A scripted template manager for reMarkable tablets.",
+  "main": "index.js",
+  "author": "Patrick Caldwell <tncbbthositg@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
